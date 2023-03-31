@@ -8,6 +8,7 @@ First project developed for the NOVA IMS master course Data Science and Advanced
 <p align="justify"> In 2016, A2Z became one of the largest insurers in Portugal. However, the lack of a data driven culture in the company ultimately led to poorly maintained databases over the years. A2Z is trying to make better use of the database it has regarding its customers. So far, it has simply mass-marketed everything. All potential and existing customers get the same promotions, and there are no attempts to identify target markets for cross-selling opportunities. Now, A2Z wants start differentiating customers, and developing more focused programs.
 
 <p align="justify"> A2Z provided you an ABT (Analytic Based Table) with data regarding a sample of 10.290 Customers from its active database. These are customers that had at least one insurance service with the company at the time the dataset was extracted. Your job is to segment the database and find the relevant clusters of customers. To do this, we suggest you segment the customers using different perspectives and approaches, as well as combine and analyze the results. A2Z would like to understand the value and demographics of each customer segment, as well as understand which types of insurance they will be more interested in buying.
+
 ## Expected outcomes
 <ol>
 <li> Explore the data and identify the variables that should be used to segment customers. </li>
